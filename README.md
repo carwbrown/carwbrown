@@ -1,4 +1,4 @@
-## 👋 my name is Carson
+## 👋 my name is Carson (aka 🚗☀️)
 I am Full-Stack Software Engineer who uses GitHub mostly for learning and side projects.
 - 😄 Pronouns: he/him 
 
