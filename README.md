@@ -1,5 +1,7 @@
-## 👋 my name is Carson (aka 🚗☀️)
-I am Full-Stack Software Engineer who uses GitHub mostly for learning and side projects.
+<h1 align="center">Hi everyone 👋, I'm Carson</h1>
+
+Polyglot engineer who has been in the Software Industry for ten years. Currently working as a Full Stack Software Engineer using TypeScript, the React Framework, and Node. Have previously worked with Go, Scala, Java, and Angular.
+
 - 😄 Pronouns: he/him 
 
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
