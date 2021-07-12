@@ -9,11 +9,18 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DE3423?style=for-the-badge&logo=scala&logoColor=white)
 
 ---
 ##  My Projects
+### <a href="https://github.com/carwbrown/rick.morty" target="_blank">React Playground</a>
+
+- I use this  project to think through several  different React App patterns.  All in Typescript I  consume APIs, use hooks, set up a form from scratch, etc.
+
+### <a href="https://github.com/carwbrown/ccs-bot" target="_blank">Discord Bot</a>
+- A Discord bot created to help the CCS Heroes of the Storm  Discord Channel. Built with vanilla JavaScript, hosted with repl.it.
+### <a href="https://github.com/carwbrown/cwbdux" target="_blank">My own version of Redux</a>
+- As a academic exercise to get a  better understanding of Redux, I wrote my own version of Redux.
 ### <a href="https://www.calltime.io/y" target="_blank">Call Time</a>
 -  A SAS Application to help video production agencies produce Call Sheets quickly and easily. Built using AWS Amplify and React.
 
@@ -23,15 +30,6 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 
 - The finished Call Sheet ready to be printed and sent to all participants
 <img src ="https://imgur.com/1khc1Gz.jpeg" alt="callSheet"></img>
-
-### <a href="https://github.com/carwbrown/rick.morty" target="_blank">My React Playground</a>
-
-- I use this  project to think through several  different React App patterns.  All in Typescript I  consume APIs, use hooks, set up a form from scratch, etc.
-
-### <a href="https://github.com/carwbrown/ccs-bot" target="_blank">Discord Bot</a>
-- A Discord bot created to help the CCS Heroes of the Storm  Discord Channel. Built with vanilla JavaScript, hosted with repl.it.
-### <a href="https://github.com/carwbrown/cwbdux" target="_blank">My own version of Redux</a>
-- As a academic exercise to get a  better understanding of Redux, I wrote my own version of Redux.
 
 <br />
 <p>
