@@ -11,6 +11,7 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Scala](https://img.shields.io/badge/-Scala-DE3423?style=for-the-badge&logo=scala&logoColor=white)
 <br />
+<br />
 
 ##  My Projects
 ### <a href="https://github.com/carwbrown/rick.morty" target="_blank">React Playground</a>
@@ -19,8 +20,10 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 
 ### <a href="https://github.com/carwbrown/ccs-bot" target="_blank">Discord Bot</a>
 - A Discord bot created to help the CCS Heroes of the Storm  Discord Channel. Built with vanilla JavaScript, hosted with repl.it.
-### <a href="https://github.com/carwbrown/cwbdux" target="_blank">My own version of Redux</a>
+### <a href="https://github.com/carwbrown/cwbdux" target="_blank">CWB Redux</a>
 - As a academic exercise to get a  better understanding of Redux, I wrote my own version of Redux.
+### <a href="https://github.com/carwbrown/hots-draft" target="_blank">HotS Drafter</a>
+- A small application to help me draft in Heroes of the Storm
 ### <a href="https://www.calltime.io/y" target="_blank">Call Time</a>
 -  A SAS Application to help video production agencies produce Call Sheets quickly and easily. Built using AWS Amplify and React.
 
