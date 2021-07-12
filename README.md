@@ -10,8 +10,8 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 ![Node](https://img.shields.io/badge/-Node-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Scala](https://img.shields.io/badge/-Scala-DE3423?style=for-the-badge&logo=scala&logoColor=white)
+<br />
 
----
 ##  My Projects
 ### <a href="https://github.com/carwbrown/rick.morty" target="_blank">React Playground</a>
 
