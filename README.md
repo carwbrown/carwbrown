@@ -17,6 +17,7 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 ### <a href="https://github.com/carwbrown/rick.morty" target="_blank">React Playground</a>
 
 - I use this  project to think through several  different React App patterns.  All in Typescript I  consume APIs, use hooks, set up a form from scratch, etc.
+- https://carwbrown.github.io/rick.morty/
 
 ### <a href="https://github.com/carwbrown/ccs-bot" target="_blank">Discord Bot</a>
 - A Discord bot created to help the CCS Heroes of the Storm  Discord Channel. Built with vanilla JavaScript, hosted with repl.it.
@@ -24,6 +25,7 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 - As a academic exercise to get a  better understanding of Redux, I wrote my own version of Redux.
 ### <a href="https://github.com/carwbrown/hots-draft" target="_blank">HotS Drafter</a>
 - A small application to help me draft in Heroes of the Storm
+- https://carwbrown.github.io/hots-draft/
 ### <a href="https://www.calltime.io/y" target="_blank">Call Time</a>
 -  A SAS Application to help video production agencies produce Call Sheets quickly and easily. Built using AWS Amplify and React.
 
