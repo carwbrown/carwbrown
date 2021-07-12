@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone 👋, I'm Carson</h1>
 
-Polyglot engineer who has been in the Software Industry for ten years. Currently working as a Full Stack Software Engineer using TypeScript, the React Framework, and Node. Have previously worked with Go, Scala, Java, and Angular.
+Polyglot engineer who has been in the Software Industry for ten years. Currently working as a Senior Full Stack Software Engineer using TypeScript, the React Framework, and Node. Have previously worked with Go, Scala, Java, and Angular.
 
 - 😄 Pronouns: he/him 
 
@@ -12,7 +12,28 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DE3423?style=for-the-badge&logo=scala&logoColor=white)
 
+---
+##  My Projects
+### <a href="https://www.calltime.io/y" target="_blank">Call Time</a>
+-  A SAS Application to help video production agencies produce Call Sheets quickly and easily. Built using AWS Amplify and React.
 
+- Manage multiple projects and have all your data in one spot<img src ="https://imgur.com/OlIB700.jpeg" alt="projects"></img>
+- Create and generate a Call Sheet
+<img src ="https://imgur.com/IlFvzAX.jpeg" alt="create"></img>
+
+- The finished Call Sheet ready to be printed and sent to all participants
+<img src ="https://imgur.com/1khc1Gz.jpeg" alt="callSheet"></img>
+
+### <a href="https://github.com/carwbrown/rick.morty" target="_blank">My React Playground</a>
+
+- I use this  project to think through several  different React App patterns.  All in Typescript I  consume APIs, use hooks, set up a form from scratch, etc.
+
+### <a href="https://github.com/carwbrown/ccs-bot" target="_blank">Discord Bot</a>
+- A Discord bot created to help the CCS Heroes of the Storm  Discord Channel. Built with vanilla JavaScript, hosted with repl.it.
+### <a href="https://github.com/carwbrown/cwbdux" target="_blank">My own version of Redux</a>
+- As a academic exercise to get a  better understanding of Redux, I wrote my own version of Redux.
+
+<br />
 <p>
   <a href="https://github.com/carwbrown" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
