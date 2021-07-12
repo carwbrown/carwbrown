@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone 👋, I'm Carson</h1>
 
-Polyglot engineer who has been in the Software Industry for ten years. Currently working as a Senior Full Stack Software Engineer using TypeScript, the React Framework, and Node. Have previously worked with Go, Scala, Java, and Angular.
+Polyglot engineer who has been in the Software Industry for ten years. Currently working as a Tech Lead using TypeScript, the React Framework, and Node. Have previously worked with Go, Scala, Java, and Angular.
 
 - 😄 Pronouns: he/him 
 
