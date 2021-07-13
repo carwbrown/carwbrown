@@ -22,7 +22,7 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 ### <a href="https://github.com/carwbrown/ccs-bot" target="_blank">Discord Bot</a>
 - A Discord bot created to help the CCS Heroes of the Storm  Discord Channel. Built with vanilla JavaScript, hosted with repl.it.
 ### <a href="https://github.com/carwbrown/cwbdux" target="_blank">CWB Redux</a>
-- As a academic exercise to get a  better understanding of Redux, I wrote my own version of Redux.
+- I wrote my own version of Redux as a academic exercise to get a better understanding of how Redux works.
 ### <a href="https://github.com/carwbrown/hots-draft" target="_blank">HotS Drafter</a>
 - A small application to help me draft in Heroes of the Storm
 - https://carwbrown.github.io/hots-draft/
