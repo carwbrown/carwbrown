@@ -26,6 +26,9 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 ### <a href="https://github.com/carwbrown/hots-draft" target="_blank">HotS Drafter</a>
 - A small application to help me draft in Heroes of the Storm
 - https://carwbrown.github.io/hots-draft/
+### <a href="https://github.com/carwbrown/r3f-ludo-model" target="_blank">Araknoid Game using React-Three-Fiber</a>
+- Coded the game Araknoid using React Three Fiber to learn the framework
+- https://carwbrown.github.io/r3f-ludo-model/
 ### <a href="https://www.calltime.io/y" target="_blank">Call Time</a>
 -  A SAS Application to help video production agencies produce Call Sheets quickly and easily. Built using AWS Amplify and React.
 
