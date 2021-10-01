@@ -29,6 +29,9 @@ Polyglot engineer who has been in the Software Industry for ten years. Currently
 ### <a href="https://github.com/carwbrown/r3f-ludo-model" target="_blank">Araknoid Game using React-Three-Fiber</a>
 - Coded the game Araknoid using React Three Fiber to learn the framework
 - https://carwbrown.github.io/r3f-ludo-model/
+### <a href="https://github.com/carwbrown/cb-minecraft" target="_blank">Minecraft using React-Three-Fiber</a>
+- Coded the Minecraft using React Three Fiber to learn how to code a First Person game
+- https://carwbrown.github.io/cb-minecraft/
 ### <a href="https://www.calltime.io/y" target="_blank">Call Time</a>
 -  A SAS Application to help video production agencies produce Call Sheets quickly and easily. Built using AWS Amplify and React.
 
