@@ -34,37 +34,37 @@ I also own and run CWB Software Consulting LLC, which provides software consulti
 <br />
 
 ##  My Projects
-### <a href="https://github.com/carwbrown/math-facts" target="_blank">Math Facts</a>
+### <a href="https://github.com/carwbrown/math-facts" target="_blank">Math Facts (2025)</a>
 
 - App I built for my partner who is a 4th grade teacher. Goal is to have 4th graders practice their multiplaction math facts
 - Technology Used: Next JS, Tailwind CSS, Daisy UI
 - Deployed to https://multi-ply.netlify.app/
 
-### <a href="https://github.com/carwbrown/zoomer-ipsum" target="_blank">Zoomer Ipsum</a>
+### <a href="https://github.com/carwbrown/zoomer-ipsum" target="_blank">Zoomer Ipsum (2025)</a>
 
 - Built to try out pnpm and Rsbuild. Generates a paragraph of random Zoomer phrases on button press
 - Technology Used: Rsbuild, Tailwind CSS, Daisy UI
 - Deployed to https://zoomer-ipsum.netlify.app/
 
-### <a href="https://github.com/carwbrown/rick.morty" target="_blank">React Playground</a>
+### <a href="https://github.com/carwbrown/rick.morty" target="_blank">React Playground (2023)</a>
 
 - I use this  project to think through several  different React App patterns.  All in Typescript I  consume APIs, use hooks, set up a form from scratch, etc.
 - https://carwbrown.github.io/rick.morty/
 
-### <a href="https://github.com/carwbrown/ccs-bot" target="_blank">Discord Bot</a>
+### <a href="https://github.com/carwbrown/ccs-bot" target="_blank">Discord Bot (2022)</a>
 - A Discord bot created to help the CCS Heroes of the Storm  Discord Channel. Built with vanilla JavaScript, hosted with repl.it.
-### <a href="https://github.com/carwbrown/cwbdux" target="_blank">CWB Redux</a>
+### <a href="https://github.com/carwbrown/cwbdux" target="_blank">CWB Redux (2021)</a>
 - I wrote my own version of Redux as an academic exercise to get a better understanding of how Redux works.
-### <a href="https://github.com/carwbrown/hots-draft" target="_blank">HotS Drafter</a>
+### <a href="https://github.com/carwbrown/hots-draft" target="_blank">HotS Drafter (2021)</a>
 - A small application to help me draft in Heroes of the Storm
 - https://carwbrown.github.io/hots-draft/
-### <a href="https://github.com/carwbrown/r3f-ludo-model" target="_blank">Araknoid Game using React-Three-Fiber</a>
+### <a href="https://github.com/carwbrown/r3f-ludo-model" target="_blank">Araknoid Game using React-Three-Fiber (2021)</a>
 - Coded the game Araknoid using React Three Fiber to learn the framework
 - https://carwbrown.github.io/r3f-ludo-model/
-### <a href="https://github.com/carwbrown/cb-minecraft" target="_blank">Minecraft using React-Three-Fiber</a>
+### <a href="https://github.com/carwbrown/cb-minecraft" target="_blank">Minecraft using React-Three-Fiber (2021)</a>
 - Coded the Minecraft using React Three Fiber to learn how to code a First Person game
 - https://carwbrown.github.io/cb-minecraft/
-### <a href="https://www.calltime.io/y" target="_blank">Call Time</a>
+### <a href="https://www.calltime.io/" target="_blank">Call Time (2021)</a>
 -  A SAS Application to help video production agencies produce Call Sheets quickly and easily. Built using AWS Amplify and React.
 
 - Manage multiple projects and have all your data in one spot<img src ="https://imgur.com/OlIB700.jpeg" alt="projects"></img>
