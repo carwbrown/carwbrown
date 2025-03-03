@@ -14,7 +14,6 @@ Technology Stack: React, Next.js, TypeScript, AWS, GraphQL, Node.js, Scala, Java
 
 I also own and run CWB Software Consulting LLC, which provides software consulting and software solutions.
 
-- 😄 Pronouns: he/him 
 
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,7 +35,7 @@ I also own and run CWB Software Consulting LLC, which provides software consulti
 ##  My Projects
 ### <a href="https://github.com/carwbrown/math-facts" target="_blank">Math Facts (2025)</a>
 
-- App I built for my partner who is a 4th grade teacher. Goal is to have 4th graders practice their multiplaction math facts
+- App I built for my partner who is a 4th grade teacher. The goal is to have 4th graders practice their multiplication math facts
 - Technology Used: Next JS, Tailwind CSS, Daisy UI
 - Deployed to https://multi-ply.netlify.app/
 
