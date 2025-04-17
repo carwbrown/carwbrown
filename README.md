@@ -33,11 +33,11 @@ I also own and run CWB Software Consulting LLC, which provides software consulti
 <br />
 
 ##  Epic Hire (2024 - 2025)
-I am proud of the work I did here at Epic Hire.
+I am proud of the work I did here at Epic Hire. I worked tirelessly, iterating on features to provide our users with immense value.
 
 <img width="773" alt="epic hire contributions" src="https://github.com/user-attachments/assets/eb499394-4b41-4488-9b22-0a7eeba16356" />
 
-### <a href="https://app.epichire.com" target="_blank">Web App</a>
+### <a href="https://app.epichire.com" target="_blank">Epic Hire - Web App</a>
 
 Built with:
 - Next.js
@@ -46,7 +46,7 @@ Built with:
 
 <img width="430" alt="webapp" src="https://github.com/user-attachments/assets/e31426f9-11e1-489c-a6df-aa4ca09e1606" />
 
-### <a href="https://epichire.com" target="_blank">Marketing site</a>
+### <a href="https://epichire.com" target="_blank">Epic Hire - Marketing site</a>
 
 Built with:
 - Next.js
@@ -57,7 +57,7 @@ Built with:
   
 <img width="427" alt="marketing" src="https://github.com/user-attachments/assets/f4c2d8e6-f5bb-4998-a85e-f0b0b981ad5c" />
 
-### Internal Admin App
+### Epic Hire - Internal Admin App
 
 Built with:
 - Next.js
@@ -65,6 +65,9 @@ Built with:
 - Material UI
   
 <img width="429" alt="internal" src="https://github.com/user-attachments/assets/c633b756-732c-45a7-b990-1ac76547c48a" />
+
+<br />
+<br />
 
 ##  My Projects
 ### <a href="https://github.com/carwbrown/math-facts" target="_blank">Math Facts (2025)</a>
