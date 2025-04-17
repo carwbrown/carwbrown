@@ -32,7 +32,7 @@ I also own and run CWB Software Consulting LLC, which provides software consulti
 <br />
 <br />
 
-##  Epic Hire
+##  Epic Hire (2024 - 2025)
 I am proud of the work I did here at Epic Hire.
 
 <img width="773" alt="epic hire contributions" src="https://github.com/user-attachments/assets/eb499394-4b41-4488-9b22-0a7eeba16356" />
@@ -46,17 +46,18 @@ Built with:
 
 <img width="430" alt="webapp" src="https://github.com/user-attachments/assets/e31426f9-11e1-489c-a6df-aa4ca09e1606" />
 
-### <a href="https://app.epichire.com" target="_blank">Web App</a>
+### <a href="https://epichire.com" target="_blank">Marketing site</a>
 
 Built with:
 - Next.js
 - TypeScript
 - SSR
 - GraphQL
+- Headless WordPress
   
 <img width="427" alt="marketing" src="https://github.com/user-attachments/assets/f4c2d8e6-f5bb-4998-a85e-f0b0b981ad5c" />
 
-### <a href="https://app.epichire.com" target="_blank">Internal Admin App</a>
+### Internal Admin App
 
 Built with:
 - Next.js
