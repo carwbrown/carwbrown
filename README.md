@@ -1,10 +1,10 @@
 <h1 align="center">Hi everyone 👋, I'm Carson</h1>
 
-Transforming complex challenges into elegant, scalable web solutions is my professional passion. As a Lead Software Engineer, I specialize in architecting high-performance applications using React and TypeScript. 
+Transforming complex challenges into elegant, scalable web solutions is my professional passion. As a Lead Software Engineer, I specialize in architecting high-performance applications using Node.js, React, and TypeScript. My recent work at Epic Hire demonstrates my ability to drive significant user growth, increasing the user base by developing responsive, intuitive interfaces that solve real-world problems.
 
 I excel at:
 - Building performant, user-centric web applications
-- Optimizing frontend architectures (10x API response improvement at previous role)
+- Enhancing backend architectures (10x API response improvement at previous role)
 - Mentoring teams and driving engineering excellence
 - Integrating cutting-edge technologies with business objectives
 
@@ -31,6 +31,39 @@ I also own and run CWB Software Consulting LLC, which provides software consulti
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 <br />
 <br />
+
+##  Epic Hire
+I am proud of the work I did here at Epic Hire.
+
+<img width="773" alt="epic hire contributions" src="https://github.com/user-attachments/assets/eb499394-4b41-4488-9b22-0a7eeba16356" />
+
+### <a href="https://app.epichire.com" target="_blank">Web App</a>
+
+Built with:
+- Next.js
+- TypeScript
+- Material UI
+
+<img width="430" alt="webapp" src="https://github.com/user-attachments/assets/e31426f9-11e1-489c-a6df-aa4ca09e1606" />
+
+### <a href="https://app.epichire.com" target="_blank">Web App</a>
+
+Built with:
+- Next.js
+- TypeScript
+- SSR
+- GraphQL
+  
+<img width="427" alt="marketing" src="https://github.com/user-attachments/assets/f4c2d8e6-f5bb-4998-a85e-f0b0b981ad5c" />
+
+### <a href="https://app.epichire.com" target="_blank">Internal Admin App</a>
+
+Built with:
+- Next.js
+- TypeScript
+- Material UI
+  
+<img width="429" alt="internal" src="https://github.com/user-attachments/assets/c633b756-732c-45a7-b990-1ac76547c48a" />
 
 ##  My Projects
 ### <a href="https://github.com/carwbrown/math-facts" target="_blank">Math Facts (2025)</a>
