@@ -14,7 +14,6 @@ Technology Stack: React, Next.js, TypeScript, AWS, GraphQL, Node.js, Scala, Java
 
 I also own and run CWB Software Consulting LLC, which provides software consulting and software solutions.
 
-
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
